@@ -1,0 +1,9 @@
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Tucil1.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Tucil1_autogen_timestamp_deps.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Tucil1_autogen.dir

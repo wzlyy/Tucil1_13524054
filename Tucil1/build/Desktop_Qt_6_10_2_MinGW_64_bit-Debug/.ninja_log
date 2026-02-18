@@ -1,0 +1,27 @@
+# ninja log v6
+6	637	7930927919471290	Tucil1_autogen/timestamp	e50030eb95ae2928
+6	637	7930927919471290	Tucil1_autogen/mocs_compilation.cpp	e50030eb95ae2928
+6	637	7930927919471290	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/timestamp	e50030eb95ae2928
+6	637	7930927919471290	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/mocs_compilation.cpp	e50030eb95ae2928
+643	2338	7930927920351188	CMakeFiles/Tucil1.dir/main.cpp.obj	b307f6e70e0e923f
+646	2767	7930927920381344	CMakeFiles/Tucil1.dir/mainwindow.cpp.obj	d01e8568fcc598b5
+641	1981	7930927920321290	CMakeFiles/Tucil1.dir/Tucil1_autogen/mocs_compilation.cpp.obj	32382a8e2ff4768a
+2767	3034	7930927941592191	Tucil1.exe	ff5d7fabf6ad5bf1
+47	617	7930932510940012	Tucil1_autogen/timestamp	9c48b050c6382afb
+47	617	7930932510940012	Tucil1_autogen/mocs_compilation.cpp	9c48b050c6382afb
+47	617	7930932510940012	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/timestamp	9c48b050c6382afb
+47	617	7930932510940012	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/mocs_compilation.cpp	9c48b050c6382afb
+618	1817	7930932511762678	CMakeFiles/Tucil1.dir/Tucil1_autogen/mocs_compilation.cpp.obj	9108092cdd1e1ffd
+621	2022	7930932511786704	CMakeFiles/Tucil1.dir/main.cpp.obj	ace71e9c4320ec5e
+624	2714	7930932511816777	CMakeFiles/Tucil1.dir/mainwindow.cpp.obj	4db971c3883cdb15
+2714	2860	7930932532716890	Tucil1.exe	5edbeec74b2a0b78
+80	143	7930932560135399	CMakeFiles/clean.additional	38b778ca1c59738
+143	153	7930932560764683	clean	9adcea125555e288
+26	644	7930932567635276	Tucil1_autogen/timestamp	9c48b050c6382afb
+26	644	7930932567635276	Tucil1_autogen/mocs_compilation.cpp	9c48b050c6382afb
+26	644	7930932567635276	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/timestamp	9c48b050c6382afb
+26	644	7930932567635276	C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Tucil1_autogen/mocs_compilation.cpp	9c48b050c6382afb
+645	1858	7930932568444564	CMakeFiles/Tucil1.dir/Tucil1_autogen/mocs_compilation.cpp.obj	9108092cdd1e1ffd
+647	2083	7930932568474557	CMakeFiles/Tucil1.dir/main.cpp.obj	ace71e9c4320ec5e
+650	2736	7930932568494554	CMakeFiles/Tucil1.dir/mainwindow.cpp.obj	4db971c3883cdb15
+2736	2866	7930932589353788	Tucil1.exe	5edbeec74b2a0b78

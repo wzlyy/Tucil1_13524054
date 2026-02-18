@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-738a2ec92fd3dda69c57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tucil1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tucil1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tucil1-Debug-61dd152330f684136bbc.json",
+					"name" : "Tucil1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tucil1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tucil1_autogen-Debug-3678e32a2a3f63add7c8.json",
+					"name" : "Tucil1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tucil1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tucil1_autogen_timestamp_deps-Debug-107d7918c0471eb44221.json",
+					"name" : "Tucil1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/wilda/GitHub/Tucil1_13524054/Tucil1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

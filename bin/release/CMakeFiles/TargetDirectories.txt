@@ -1,0 +1,9 @@
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/Tucil1.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/edit_cache.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/rebuild_cache.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/list_install_components.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/install.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/install/local.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/install/strip.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/Tucil1_autogen_timestamp_deps.dir
+C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/CMakeFiles/Tucil1_autogen.dir

@@ -1,0 +1,11 @@
+# ninja log v6
+5	38	7930935719775380	CMakeFiles/clean.additional	38b778ca1c59738
+38	45	7930935720107033	clean	9adcea125555e288
+39	695	7930935727343230	Tucil1_autogen/timestamp	c9056935677c2859
+39	695	7930935727343230	Tucil1_autogen/mocs_compilation.cpp	c9056935677c2859
+39	695	7930935727343230	C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/Tucil1_autogen/timestamp	c9056935677c2859
+39	695	7930935727343230	C:/Users/wilda/GitHub/Tucil1_13524054/bin/release/Tucil1_autogen/mocs_compilation.cpp	c9056935677c2859
+699	1888	7930935728241469	CMakeFiles/Tucil1.dir/Tucil1_autogen/mocs_compilation.cpp.obj	4a39537a6485b2c
+703	2083	7930935728270691	CMakeFiles/Tucil1.dir/main.cpp.obj	f20517ded284a0da
+707	2761	7930935728310691	CMakeFiles/Tucil1.dir/mainwindow.cpp.obj	a7baba218e51e26f
+2761	2895	7930935748861209	Tucil1.exe	5edbeec74b2a0b78
